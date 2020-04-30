@@ -23,7 +23,7 @@ public class Tiempo {
         if(entrada.after(salida)){
             JOptionPane.showMessageDialog(null, "Favor ingresar hora correcta");
 
-        }
+        } 
 
         return s-e;
 
