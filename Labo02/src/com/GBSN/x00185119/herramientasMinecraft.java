@@ -23,7 +23,7 @@ public class herramientasMinecraft {
 
     public int getClase() {
         return clase;
-    }
+    } 
 
     public void Build() {
 
