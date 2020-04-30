@@ -23,7 +23,7 @@ public class Main {
                 case 2:
                     int a=0;
                     boolean PLACA= false;
-                    do{
+                    do{ 
                         String plate = JOptionPane.showInputDialog("Placa: ");
                         for (int i = 0; i < tickets.size(); i++) {
                             if (tickets.get(i).getPlaca().equals(plate)) {
