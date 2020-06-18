@@ -1,0 +1,2 @@
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo6\Labo6\Labo6\obj\Debug\Labo6.csprojAssemblyReference.cache
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo6\Labo6\Labo6\obj\Debug\Labo6.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Meet\MEET\MEET\bin\Debug\MEET.exe
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Meet\MEET\MEET\bin\Debug\MEET.pdb
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Meet\MEET\MEET\obj\Debug\MEET.csprojAssemblyReference.cache
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Meet\MEET\MEET\obj\Debug\MEET.csproj.CoreCompileInputs.cache
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Meet\MEET\MEET\obj\Debug\MEET.exe
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Meet\MEET\MEET\obj\Debug\MEET.pdb
