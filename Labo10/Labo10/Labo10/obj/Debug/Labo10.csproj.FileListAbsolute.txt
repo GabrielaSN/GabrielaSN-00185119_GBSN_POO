@@ -1,0 +1,6 @@
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo10\Labo10\Labo10\bin\Debug\Labo10.exe
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo10\Labo10\Labo10\bin\Debug\Labo10.pdb
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo10\Labo10\Labo10\obj\Debug\Labo10.csprojAssemblyReference.cache
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo10\Labo10\Labo10\obj\Debug\Labo10.csproj.CoreCompileInputs.cache
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo10\Labo10\Labo10\obj\Debug\Labo10.exe
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo10\Labo10\Labo10\obj\Debug\Labo10.pdb

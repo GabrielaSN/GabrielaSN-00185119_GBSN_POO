@@ -1,0 +1,12 @@
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo8\Labo8\Labo8\bin\Debug\Labo8.exe.config
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo8\Labo8\Labo8\bin\Debug\Labo8.pdb
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo8\Labo8\Labo8\obj\Debug\Labo8.csprojAssemblyReference.cache
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo8\Labo8\Labo8\obj\Debug\Labo8.Properties.Resources.resources
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo8\Labo8\Labo8\obj\Debug\Labo8.csproj.GenerateResource.cache
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo8\Labo8\Labo8\obj\Debug\Labo8.csproj.CoreCompileInputs.cache
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo8\Labo8\Labo8\obj\Debug\Labo8.exe
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo8\Labo8\Labo8\obj\Debug\Labo8.pdb
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo8\Labo8\Labo8\obj\Debug\Labo8.Form1.resources
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo8\Labo8\Labo8\obj\Debug\Labo8.Login.resources
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo8\Labo8\Labo8\obj\Debug\Labo8.Register.resources
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo8\Labo8\Labo8\obj\Debug\Labo8.csproj.CopyComplete

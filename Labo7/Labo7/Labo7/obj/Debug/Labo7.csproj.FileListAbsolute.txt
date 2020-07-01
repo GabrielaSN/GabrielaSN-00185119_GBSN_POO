@@ -1,0 +1,10 @@
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo7\Labo7\Labo7\bin\Debug\Labo7.exe.config
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo7\Labo7\Labo7\bin\Debug\Labo7.exe
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo7\Labo7\Labo7\bin\Debug\Labo7.pdb
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo7\Labo7\Labo7\obj\Debug\Labo7.csprojAssemblyReference.cache
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo7\Labo7\Labo7\obj\Debug\Labo7.Properties.Resources.resources
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo7\Labo7\Labo7\obj\Debug\Labo7.csproj.GenerateResource.cache
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo7\Labo7\Labo7\obj\Debug\Labo7.csproj.CoreCompileInputs.cache
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo7\Labo7\Labo7\obj\Debug\Labo7.exe
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo7\Labo7\Labo7\obj\Debug\Labo7.pdb
+C:\Users\gbsol\Desktop\Repo00185119\GabrielaSN-00185119_GBSN_POO\Labo7\Labo7\Labo7\obj\Debug\Labo7.Form1.resources
